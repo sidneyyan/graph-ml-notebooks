@@ -1,4 +1,4 @@
-# TigerGraph ML Workbench: Graph ML as a Service
+# TigerGraph ML Workbench: Graph ML as a Service 
 
 TigerGraph’s Machine Learning Workbench is a Python-based toolkit that accelerates the development of graph-enhanced machine learning, which leverages the added insight from connected data and graph features for better predictions.
 
